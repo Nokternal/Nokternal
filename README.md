@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Artem Tomaschuk
+- 👀 I’m interested in graphic design & web-development
+- 🌱 I’m currently learning native JavaScript
